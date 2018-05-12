@@ -1,23 +1,13 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
-  - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-  - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project: Electronics Laboratory (Physics 133) Final Project
+    title: Dual Slope Analog-to-Digital Converter
+    tagline: "Implemented a dual-slope ADC, improving upon a provided schematic by substantially reducing noise in the output signal and implementing a one-digit LED display."
+  - project: Optics Laboratoy (Physics 134) Final Project
+    title: The Polarization States of Zeeman-Split Envelopes of a Helium-Neon Laser
+    tagline: "Applying a magnetic field to a Helium-Neon laser splits the laser's spectrum into two Doppler envelopes. One of these is mostly right circular polarized with some left circular polarization, and the other is mostly left circular polarized with some right circular polarization. Using optical techniques, I examined the dependence of the complex phase between the left and right circular components of each envelope on magnetic field strength."
+  - project: Theoretical Mechanics (Physics 111) Final Project
+    title: Chaotic Magnetic Pendulum
+    tagline: "Using Mathematica, investigated the chaotic behavior of a magnetic pendulum and the system's dependence on initial position."
+  - project: Computational Methods in Physics (Physics 170) Final Project
+    title: Coarse Granular Mixing
+    tagline: "Using Mathematica, performed two-dimensional simulations of mixing of identical particles in a spinning container."
